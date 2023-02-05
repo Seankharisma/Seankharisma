@@ -6,7 +6,7 @@
 - 🔭  I’m currently seeking opportunities in Tokyo, Japan and others countries.
 - 🌱  I’m currently learning Python,Java,JS & TS.
 - 👯  I’m looking to collaborate on Data Analyst.
-- 📫  How to reach me: rishinwork10@gmail.com
+- 📫  rishinwork10@gmail.com
 - 🗣️  🇯🇵🇨🇳
 - 📝  🇯🇵🇬🇧🇨🇳
 
