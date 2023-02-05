@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ![Seankharisma's github Stats2](https://stats.justsong.cn/api/github?username=Seankharisma&theme=dark)
 
-<P><h3>Top languages</h3>
+<P><h3>Programming languages</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seankharisma&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   
