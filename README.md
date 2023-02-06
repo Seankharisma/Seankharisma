@@ -9,6 +9,8 @@
 - 📫  rishinwork10@gmail.com
 - 🗣️  🇯🇵🇨🇳
 - 📝  🇯🇵🇬🇧🇨🇳
+- 🥳  🎵(Music)/😺(Cat)/📷(Photophy)/🐲(Anime)/📚(Language Study)
+
 
 
 <!--
