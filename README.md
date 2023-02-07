@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <P><h3 style="text-align: center;">Programming Languages</h3>
 
 <div style="display: flex; justify-content: center;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seankharisma&langs_count=10" height="250">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seankharisma&langs_count=10" height="200">
 </div>
 
 <P><h3 style="text-align: center;">Visitor</h3>
