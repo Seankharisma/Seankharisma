@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 -->
 
 <P><h3>GitHub stats</h3>
-  
-![Seankharisma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seankharisma&show_icons=true&theme=tokyonight)
 
-![Seankharisma's github Stats2](https://stats.justsong.cn/api/github?username=Seankharisma&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=Seankharisma&show_icons=true&theme=tokyonight" height="200"><img src="https://stats.justsong.cn/api/github?username=Seankharisma&theme=dark" height="200">
+
 
 <P><h3>Programming Languages</h3>
 
