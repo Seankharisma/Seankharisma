@@ -28,19 +28,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<P><h3>GitHub stats</h3>
+<P><h3 style="text-align: center;">GitHub stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Seankharisma&show_icons=true&theme=tokyonight" height="200"><img src="https://stats.justsong.cn/api/github?username=Seankharisma&theme=dark" height="200">
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seankharisma&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://stats.justsong.cn/api/github?username=Seankharisma&theme=dark" height="150">
+</div>
 
+<P><h3 style="text-align: center;">Programming Languages</h3>
 
-<P><h3>Programming Languages</h3>
+<div style="display: flex; justify-content: center;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seankharisma&langs_count=10" height="250">
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seankharisma&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-  
-<P><h3>Visitor</h3>
- 
-![Visitor Count](https://profile-counter.glitch.me/Seankharisma/count.svg)
-  
-  
-  
-  
+<P><h3 style="text-align: center;">Visitor</h3>
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://profile-counter.glitch.me/Seankharisma/count.svg" height="75">
+</div>
+
