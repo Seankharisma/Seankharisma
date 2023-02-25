@@ -2,10 +2,11 @@
 
 ### Hi 👋
 #### This is Sean.
-- 👨‍💻  Data Analyst・System Engineer
+- 👨‍💻  Data Analyst・System Engineer.
 - 🔭  I’m currently seeking opportunities in Tokyo, Japan and others countries.
 - 🌱  I’m currently learning python and technologies related to data analysis.
 - 👯  I’m looking to collaborate on Data Analyst.
+- 💻  I’m building my GitHub.
 - 📫  rishinwork10@gmail.com
 - 🗣️  🇯🇵🇨🇳
 - 📝  🇯🇵🇬🇧🇨🇳
