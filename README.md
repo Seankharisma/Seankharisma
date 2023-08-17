@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 <P><h3 style="text-align: center;">GitHub stats</h3>
 
 <div style="display: flex; justify-content: center;">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seankharisma&theme=tokyonight&show_icons=true)
+ <img src="https://github-readme-stats.vercel.app/api?username=Seankharisma&theme=tokyonight&show_icons=true" height="200">
+  <!-- <img src="https://stats.justsong.cn/api/github?username=Seankharisma&theme=dark" height="200"> -->
 </div>
-[![Seankharisma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seankharisma&theme=tokyonight&show_icons=true)](https://github.com/Seankharisma/github-readme-stats)
+
 <P><h3 style="text-align: center;">Programming Languages</h3>
 
 <div style="display: flex; justify-content: center;">
