@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 <div style="display: flex; justify-content: center;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seankharisma&layout=pie" height="250">
 </div>
-
 <P><h3 style="text-align: center;">Visitor</h3>
 
 <div style="display: flex; justify-content: center;">
