@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: center;">
  <img src="https://github-readme-stats.vercel.app/api?username=Seankharisma&theme=tokyonight&show_icons=true" height="200">
-  <!-- <img src="https://stats.justsong.cn/api/github?username=Seankharisma&theme=dark" height="200"> -->
+   <img src="https://stats.justsong.cn/api/github?username=Seankharisma&theme=dark" height="200">
 </div>
 
 <P><h3 style="text-align: center;">Programming Languages</h3>
