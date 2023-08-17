@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <div style="display: flex; justify-content: center;">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seankharisma&theme=tokyonight&show_icons=true)
 </div>
-
+[![Seankharisma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seankharisma&theme=tokyonight&show_icons=true)](https://github.com/Seankharisma/github-readme-stats)
 <P><h3 style="text-align: center;">Programming Languages</h3>
 
 <div style="display: flex; justify-content: center;">
